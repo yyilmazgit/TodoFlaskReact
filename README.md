@@ -1,3 +1,7 @@
+Todo app (CRUD) with Flask and React with basic UI (future changes : use of MaterialUI)
+Need to setup virtual env flask and "npm i" to setup react app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
